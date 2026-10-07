@@ -1,0 +1,11 @@
+{
+  "name": "MIN0 CORE FORTH Mobile Learning",
+  "short_name": "MIN0 FORTH",
+  "description": "Personal offline FORTH learning environment",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#091319",
+  "theme_color": "#091319",
+  "lang": "ja"
+}
