@@ -1,5 +1,5 @@
 "use strict";
-const CACHE_NAME = "min0-forth-ed91a2b";
+const CACHE_NAME = "min0-forth-7bf0bd2";
 const APP_FILES = ["./", "./index.html", "./manifest.webmanifest"];
 self.addEventListener("install", event => {
   event.waitUntil(caches.open(CACHE_NAME).then(cache => cache.addAll(APP_FILES)).then(() => self.skipWaiting()));

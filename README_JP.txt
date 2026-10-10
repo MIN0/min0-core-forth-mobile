@@ -1,6 +1,6 @@
 MIN0 CORE FORTH Mobile Learning Web App
 
-revision: ed91a2b
+revision: 7bf0bd2
 
 このZIPはWebサーバー配置用です。iPhoneの「ファイル」からindex.htmlを直接開いても
 JavaScriptは実行されません。HTTPSの静的Webサーバーへ3ファイルを同じ場所に配置します。
